@@ -1,0 +1,42 @@
+li {
+  list-style: none;
+}
+.passwords-list-elements {
+  border: 2px solid white;
+  border-radius: 8px;
+  height: 15vh;
+  width: 320px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.web {
+  background: #10b981;
+  color: white;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.websites-names-passwords {
+  color: white;
+  font-size: 30px;
+  margin-left: 10px;
+}
+li {
+  margin: 20px;
+}
+button {
+  background-color: transparent;
+  border-width: 0px;
+  height: 2vh;
+  margin-left: 20px;
+  cursor: pointer;
+}
+.stars {
+  width: 120px;
+}
